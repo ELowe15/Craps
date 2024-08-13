@@ -1,0 +1,57 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/evanl/Desktop/IC/Project/Controller/ModelSim
+vController
+Z1 !s110 1701619599
+!i10b 1
+!s100 0bk?8[2kPKe4J9JNI:^Qo2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+Ic[77UEH[:dk<LnMR2eUXh2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1701294213
+8../Controller.v
+F../Controller.v
+!i122 33
+L0 1 109
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1701619599.000000
+!s107 ../Controller.v|
+!s90 -reportprogress|300|../Controller.v|
+!i113 1
+Z6 tCvgOpt 0
+n@controller
+vController_TB
+R1
+!i10b 1
+!s100 WU_R_[IjIlQfYLDdj2V<L0
+R2
+I?4hHn]<RlOAk>AQIY^I3I1
+R3
+R0
+w1701619595
+8Controller_TB.v
+FController_TB.v
+!i122 34
+L0 3 72
+R4
+r1
+!s85 0
+31
+R5
+!s107 Controller_TB.v|
+!s90 -reportprogress|300|Controller_TB.v|
+!i113 1
+R6
+n@controller_@t@b
