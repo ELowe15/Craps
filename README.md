@@ -1,7 +1,5 @@
 # Dice Game (Craps)
 
-# Dice Game Module (DICE3)
-
 ## Overview
 
 This Verilog-based dice game simulates a simple craps game. It rolls two dice, checks if the player wins, loses, or continues to roll, and displays the results. The game uses a state machine to manage different phases like "natural," "craps," or "point" rolls.
