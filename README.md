@@ -1,3 +1,5 @@
+# Dice Game (Craps)
+
 # Dice Game Module (DICE3)
 
 ## Overview
@@ -21,6 +23,11 @@ This Verilog-based dice game simulates a simple craps game. It rolls two dice, c
 - **clk_main:** Main clock.
 - **enter:** Signal to initiate a roll.
 - **reset:** Resets the game.
+
+## Folder Structure
+
+Each component of the dice game is organized into its own folder for better modularity
+Each Verilog module has an associated test bench to ensure proper functionality during simulation.
 
 ## Modules
 
@@ -56,4 +63,4 @@ Compares two 4-bit values and outputs signals indicating whether they are equal 
 
 ## License
 
-Licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+Licensed under the MIT License
